@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief admonition of some of the inconveniences of all the three most famous governments known to the world: with their comparisons together.</title>
+            <author>Howell, James, 1594?-1666.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86616</idno><idno type="EEBO-CITATION">99867053</idno>
+  <idno type="VID">168626</idno>
+  <idno type="EEBO-PROQUEST">2240917442</idno>
+  
+            <idno type="STC">Wing H3058</idno>
+            <idno type="STC">Thomason E988_1</idno>
+            <idno type="STC">ESTC R208049</idno>
+            <idno type="PROQUEST">99867053</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867053e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86616)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168626)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E988[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief admonition of some of the inconveniences of all the three most famous governments known to the world: with their comparisons together.</title>
+                  <author>Howell, James, 1594?-1666.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: J.H. (i.e. James Howell).</note>
+                  <note>Annotation on Thomason copy: "June 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Political science --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168626:1"/>
+            <p>A BRIEF ADMONITION OF Some of the INCONVENIENCES Of all the three most Famous <hi>GOVERNMENTS</hi> known to the World: With their Comparisons together.</p>
+            <p>London Printed, 1659.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168626:2"/>
+            <head>To all honest disinteressed Common-Wealths-men.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Know many of you will read this Pam<g ref="char:EOLhyphen"/>phlet with prejudicate Opinions: but I think my self as free from that, in write<g ref="char:EOLhyphen"/>ing of it, as I am from any design, but the recalling passionate men to a temper, tending to a settlement of our Coun<g ref="char:EOLhyphen"/>trey, and to that end, I have as much as I could for<g ref="char:EOLhyphen"/>born the distracting names, of King, Common wealth, Artistocrasie, and Democracy, which so charm us with their sounds, that we loose in our passions the consideration of the things themselves. I know I might have said much more to this purpose, then I have done, and yet have come short of the more Ingenious, and Learned Pieces lately put out upon this Subject: But this is for vulgar capacities, and brief enough for all mens leisures, to read it, and forgive me for troubling them, but a little. I am not so capable of mending faults in Government, as of finding of them, I shall leave that to the wise, but think it a Task onely for a true<g ref="char:EOLhyphen"/>ly free <hi>Parliament,</hi> without Comptrollers. In the mean time, if these few lines were capable of staying any of my Countrey men from being further misled, it would be an un<g ref="char:EOLhyphen"/>expressable satisfaction to</p>
+            <closer>
+               <salute>Gentlemen,</salute>
+               <signed>Your hearty humble Servant, J. H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168626:2"/>
+            <head>Whether it be better to be Governed by a single Person, or by any number not exceeding one hundred and six, or by one thousand, or by a mixture of these, as distinct Courts, with their Limitations of Time and Power.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat one of these is necessary, principally, for the prevention of Forreign invasions, and intestine Dissentions destructive to all mens properties; there is no man of any capacity will deny, and as a se<g ref="char:EOLhyphen"/>condary end of Government for the due distribution of Justice between particular Persons, a people is next obliged to one of them, and those p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eceeding Grand Concernments being first pro<g ref="char:EOLhyphen"/>vided for: The last care of a Nation is to secure it self a<g ref="char:EOLhyphen"/>gainst the avarice and cruelty of their own Trustees, and to chuse that Government which most secures them from the last of these dangers, if it be not destructive to the a<g ref="char:EOLhyphen"/>fore mentioned ends of Government.</p>
+            <pb n="2" facs="tcp:168626:3"/>
+            <p> Now for the first of the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, I mean the Protection of a Na<g ref="char:EOLhyphen"/>tion in danger, it is evident that a single person well chosen is the fittest, by reason that his Councels are most secret and sud<g ref="char:EOLhyphen"/>den for the prevention of eminent danger, and this hath been verified by the experience of Common-wealths, continually chusing single persons in such exigencies, and particularly the <hi>Romans,</hi> who though they had placed the Consular power in two, were compelled to chuse a Dictator, and give him an ab<g ref="char:EOLhyphen"/>solute unlimited power at such times; and at other ordinary times did (like other Common-wealths) trust their Armies to single persons. And if a single person hath this advantage a<g ref="char:EOLhyphen"/>gainst Forreigners, he hath the same against Seditions, and is better qualitifed for Conquests, as appears by the slow growth of the <hi>Roman</hi> power under a Common-wealth, and the quick progress of the <hi>Assyrian, Persian, Grecian,</hi> and <hi>Turkish</hi> Mo<g ref="char:EOLhyphen"/>narchies under their severall Emperors: And we may observe out of Six <hi>Walter Raleighs</hi> History of the world, that <hi>Hanni<g ref="char:EOLhyphen"/>bal,</hi> after he had by his many victories, made <hi>Rome</hi> almost stoop to <hi>Carthage,</hi> was compelled, (for want of power to command speedy supplyes) to quit the fruits of his victories, and see his Countrey ruined by the tedious and factious De<g ref="char:EOLhyphen"/>bates of an ill affected party to him in the Senate. And if we cast our eyes upon the two great Factions of the Presby<g ref="char:EOLhyphen"/>terians, and Independants in our <hi>Parliament</hi> in 1648. and remember how certainly they had brought us to a Warre but for the prevention of the Army, we may conclude the que<g ref="char:EOLhyphen"/>stion in point of security for a single person against any great Assembly, which will alwayes be subdivided, into Anabap<g ref="char:EOLhyphen"/>tists, Independants, Quakers, <hi>&amp;c.</hi> and be easily misled by ambitious crafty ill men into destructive confusions, if they be unlimited in power, and time of sitting.</p>
+            <p>As for the Government of a smaller number the inconveni<g ref="char:EOLhyphen"/>encies will be the same in any number under a hundred, though not so frequent as in greater Assemblies, but an unlimited pow<g ref="char:EOLhyphen"/>er amongst equalls will divide them like petty Princes, through ambition and interest into factions, and confederacies, if they
+<pb n="3" facs="tcp:168626:3"/>be not kept at unity by their apprehensions of their mighty neighbours, as the <hi>Venetians</hi> and <hi>Hollanders</hi> have alwaies been, and as the <hi>Romans</hi> hardly were, till they had ma<g ref="char:EOLhyphen"/>stered their greatest opposites, and then grew liable to sediti<g ref="char:EOLhyphen"/>ons, and usurpations among themselves so that either of th' a<g ref="char:EOLhyphen"/>fore mentioned numbers must give place to the single person for securing a Nation.</p>
+            <p>As for the distribution of Justice, there is little to be said to that, but that a single person is more like to make quick dispatches, then where there is a number of equalls to oppose, and debate, and he is more like to do justice as having a greater concernment of his own, and more eyes upon him then a number, who may lay the faults upon each other, and where the worst sort do commonly confederate to surprise the honest men with their prepared speeches for their own corrupt ends.</p>
+            <p>But to the last question: which of all these a people may best secure themselves against: I must give a divided answer, for the Armies of supreame Governours are the effects of ava<g ref="char:EOLhyphen"/>rice, or cruelty and all the three Governments, as they are single, and unlimited may practise both, but the single person if he be cruell, ungodly, or a fool, is like to commit rash acts of Tyranny to the destruction of those few that displease him, which the number of Governours commonly doth by the formality of a high Court of injustice, or by a martiall Law; but for the rapine of Governours, as we measure the generality of men by their interest, there must needs be more avarice, and more interests to maintaine at the charge of a Na<g ref="char:EOLhyphen"/>tion amongst a multitude of Governours then in a single per<g ref="char:EOLhyphen"/>son; and more Masters to please or displease must necessarily be more troublesome then one, when every one hath power to prejudice the poor that want friends, but they must most of them strive to redresse a grievance, which is very slowly effe<g ref="char:EOLhyphen"/>cted, if at all, against a member of an Assembly, that hath prepossessed his friends, (where his adversary cannot be heard) and who would unwillingly punish one of their own, if his adversary could be admitted to speak for himself, in their As<g ref="char:EOLhyphen"/>sembly.</p>
+            <pb n="4" facs="tcp:168626:4"/>
+            <p> To conclude, a perpetuall representative appeares to be more oppressive, and inconvenience, then any mortall Tyrant can be: But, whether there be any security from all usurpati<g ref="char:EOLhyphen"/>on in a mixt or ballancing power, is next to be enquired.</p>
+            <p>That a great Assembly will endeavour to perpetuate it self, is as certain, as it is, that all men naturally love the power to oblige, or punish; and this experience hath confirmed unto us, and it is as clear that they will never want pretences for it from reall or pretended dangers, at home, or abroad, or from busi<g ref="char:EOLhyphen"/>nesses depending before them, which they will take to them<g ref="char:EOLhyphen"/>selves as they are the supream judicature, either upon appeals from inferiour Courts, or out of their naturall love to power, or the avarice of many amongst them, and neither a co-ordi<g ref="char:EOLhyphen"/>nate smaller number called a <hi>Senate,</hi> or what you please, nor any endeavours of the scattered multitude, divided by their ig<g ref="char:EOLhyphen"/>norance, interest, or the influence of those in power, can hinder them from falling upon tedious debates to the obstruction of all justice, nor is their Tyranny like to have other period, but from their forementioned confusions, which a co-ordinate equall power will as certainly increase, as if two single per<g ref="char:EOLhyphen"/>sons were to raign at once: And if it be an inferiour power, it will be but a new delay of justice, without preventing the aforementioned inconveniencies, for the supream will have the last appeals of every dissatisfied person, besides all the com<g ref="char:EOLhyphen"/>plaints that shall be immediately addressed to them by any of their friends, and though all the supream Assembly or but a part of the members should submit to a new Annuall Ele<g ref="char:EOLhyphen"/>ction, what a perpetuall confusion or delay would there be in Causes long depending that either the new members must ei<g ref="char:EOLunhyphen"/>ther vote in by chance, or hear the whole businesse over againe besides the distraction of forraign intelligence by their change: But some Commonwealths-men propose that the lesser As<g ref="char:EOLhyphen"/>sembly should onely debate, and the supream should onely judge, but I aske who shall stop the mouths of the supream power from debating before they give sentence, or if it were possible what blind judgments must they give, without the
+<pb n="5" facs="tcp:168626:4"/>liberty of expressing, and clearing their doubts.</p>
+            <p>As for the numbers of 100, or 60, or what you please, it is presumed there will be some covetous, crafty ill men a<g ref="char:EOLhyphen"/>mongst them, who seeing they have no power to determine controversies, have no other way to get money, but by delay<g ref="char:EOLhyphen"/>ing every mans businesse, till they are quickned with bribes, and how easily this is done by Objections, raysing De<g ref="char:EOLhyphen"/>bates amongst Confederates (who when other Arts fail, can put off one businesse with another where many are de<g ref="char:EOLhyphen"/>pending) is not unknown to any knowing person that ever was a Member of any great Assembly.</p>
+            <p>By which I conclude, that two Assemblies, whether e<g ref="char:EOLhyphen"/>quall or subordinate, are more burthensome then one, and al<g ref="char:EOLhyphen"/>wayes dangerous, without an Umpire, or Negative, in a third estate to the unlimited Power of either, and if there be no security in that mixture, We are not to hope it in any.</p>
+            <p>For example, Two interessed contentious persons have seldome been known to decide a private Difference them<g ref="char:EOLhyphen"/>selves, but, if they engage their whole Estates to submit to an Arbitrator, they must then agree for a part, rather then lose the whole. If then it be granted that all per<g ref="char:EOLhyphen"/>sons that acquired power, will keep it as long as they can, and extend it as far as they dare, and that the greatest As<g ref="char:EOLhyphen"/>semblies are most incontroulable in this our present Mo<g ref="char:EOLhyphen"/>dellers of Common-wealths, can never hope to see their Dictates of Rotation, and mixture observed by one or two Estates, if they were the best, since there will alwayes be some Knaves in power, and many Fooles to be seduced by their specious pretences against their true Interests, and therefore they had as good trust the Nation with its own Liberty now, as be forced to it hereafter, since that is not best for a Nation that is so in it self, but what they are most agreed on: And those that oppose that, are invaders of all mens Liberties, and Properties, according to Com<g ref="char:EOLhyphen"/>mon-wealth
+<pb n="6" facs="tcp:168626:5"/>Principles, and to Christs also, who hath said. <hi>That a Kingdome divided in it self cannot stand.</hi>
+            </p>
+            <p>Therefore, if our Nation be more like to agree upon mending the Old Fabricke then erecting a New. I pre<g ref="char:EOLhyphen"/>sume all good Christians and true <hi>English</hi> men would consent to it, though they denied all former Contracts.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
